@@ -1,0 +1,25 @@
+div.rosa{
+    background-color: lightpink;
+    color: blue;
+   
+    
+}
+div.azul{
+    background-color: aliceblue;
+    color: royalblue;
+    text-align: center;
+
+
+}
+div.amarillo{
+    background-color: yellow;
+    color: blue;
+    
+}
+body{
+    color: blue;
+    
+}
+div.fondo{
+    background-color: lightsalmon;
+}
